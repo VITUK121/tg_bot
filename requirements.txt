@@ -1,0 +1,2 @@
+aiogram==3.0.0b6  # or the latest stable version if available
+requests==2.28.2  # or the latest stable version if available
